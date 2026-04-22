@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+pyyaml
+nbformat
+nbclient
+jupyter-client
+jupyter-core
+ipykernel
+pyshp
+basemap
